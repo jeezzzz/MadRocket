@@ -1,0 +1,10 @@
+{
+    "id": 1,
+    "name": "User One",
+    "email": "userone@example.com",
+    "location": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    }
+  }
+  
